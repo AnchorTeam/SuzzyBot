@@ -31,6 +31,14 @@ return {
 		realm_name = 'My Realm'
 	},
 	plugins = {
-    
+       help.lua	
+       meme.lua	
+       reactions.lua	
+       time.lua	
+       translate.lua	
+       weather.lua	
+       who.lua	
+       wikipedia.lua	
+       youtube.lua
 	}
 }
