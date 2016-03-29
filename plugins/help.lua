@@ -15,6 +15,7 @@ help_text = help_text .. [[
  /help <plugin>
        *For find the help of plugin*
 -----------------------------
+@AnchorGroup
 ]]
 
 local triggers = {
