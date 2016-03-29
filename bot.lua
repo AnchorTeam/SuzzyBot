@@ -22,7 +22,7 @@ bot_init = function() -- The function run when the bot is started or reloaded.
 		local p = dofile('plugins/'..v)
 		table.insert(plugins, p)
 	end
-	print('This Bot Based On Suzzy Source Pls Dont Delete Creator Names :( Plssss')
+	print(this is bot @AnchorRobot creator me @Poyer:)')
 	print('Bot Username : @'..bot.username..'\nBot ID : '..bot.id..'\nBot Name : '..bot.first_name)
 
 	-- Generate a random seed and "pop" the first random number. :)
