@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '', --Your Bot API Key (token from bot father)
+	bot_api_key = '202632737:AAF4SNuF3L9pnVo72_ibS6s1PrznGD4Wis0', --Your Bot API Key (token from bot father)
 	google_api_key = '',
 	google_cse_key = '',
 	thecatapi_key = '',
